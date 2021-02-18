@@ -1,3 +1,15 @@
+# 50.18.0 - Month DD, YYYY
+
+## Added
+
+#### salesforcedx-vscode-core
+
+- Add diagnostics to Apex test run failures ([PR #2922](https://github.com/forcedotcom/salesforcedx-vscode/pull/2922))
+
+#### salesforcedx-vscode-lwc
+
+- Add target and actiontype to js-meta ([PR #2933](https://github.com/forcedotcom/salesforcedx-vscode/pull/2933))
+
 # 50.17.0 - February 10, 2021
 
 ## Fixed
